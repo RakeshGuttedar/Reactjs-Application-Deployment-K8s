@@ -1,5 +1,5 @@
 # Reactjs-Application-Deployment-K8s
-Reactjs Application Deployment in theK8s
+Reactjs Application Deployment in the K8s
 
 1. Install minikube
 
